@@ -107,3 +107,43 @@ Quiz 3: Functions & Types
 47. Useful Resources & Links
 
 ## Section 4: Next-generation JavaScript & TypeScript (full)
+
+## Section 5: Classes & Interfaces
+12 / 28|1hr 36min
+
+57. Module Introduction
+1min
+
+58. What are Classes?
+5min
+
+59. Creating a First Class
+6min
+
+60. Compiling to JavaScript
+3min
+
+61. Constructor Functions & The "this"
+Keyword
+8min
+
+62. "private" and "public" Access Modifiers
+6min
+
+63. Shorthand Initialization
+3min
+
+64. "readonly" Properties
+3min
+
+Quiz 4: Class Basics
+
+65. Inheritance
+8min
+
+66. Overriding Properties & The "protected"
+Modifier
+3min
+
+67. Getters & Setters
+
