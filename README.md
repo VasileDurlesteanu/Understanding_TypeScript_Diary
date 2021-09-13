@@ -105,3 +105,5 @@ Quiz 3: Functions & Types
 46. Wrap Up
 
 47. Useful Resources & Links
+
+## Section 4: Next-generation JavaScript & TypeScript (full)
