@@ -109,41 +109,61 @@ Quiz 3: Functions & Types
 ## Section 4: Next-generation JavaScript & TypeScript (full)
 
 ## Section 5: Classes & Interfaces
-12 / 28|1hr 36min
 
 57. Module Introduction
-1min
 
 58. What are Classes?
-5min
 
 59. Creating a First Class
-6min
 
 60. Compiling to JavaScript
-3min
 
-61. Constructor Functions & The "this"
-Keyword
-8min
+61. Constructor Functions & The "this" Keyword
 
 62. "private" and "public" Access Modifiers
-6min
 
 63. Shorthand Initialization
-3min
 
 64. "readonly" Properties
-3min
 
 Quiz 4: Class Basics
 
 65. Inheritance
-8min
 
-66. Overriding Properties & The "protected"
-Modifier
-3min
+66. Overriding Properties & The "protected" Modifier
 
 67. Getters & Setters
+
+68. Static Methods & Properties
+
+69. Abstract Classes
+
+70. Singletons & Private Constructors
+
+71. Classes - A Summary
+
+Quiz 5: Classes
+
+72. A First Interface
+
+73. Using Interfaces with Classes
+
+74. Why Interfaces?
+
+75. Readonly Interface Properties
+
+76. Extending Interfaces
+
+77. Interfaces as Function Types
+
+78. Optional Parameters & Properties
+
+79. Compiling Interfaces to JavaScript
+
+Quiz 6: Interfaces
+
+80. Wrap Up
+
+81. Useful Resources & Links
+
 
