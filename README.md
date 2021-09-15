@@ -166,6 +166,6 @@ Quiz 6: Interfaces
 
 81. Useful Resources & Links
 
-###15th of September
-### Section 6: Advanced Types (ALL) 12 / 12|52min
-### Section 7: Generics (Until 100)
+### 15th of September
+## Section 6: Advanced Types (ALL) 12 / 12|52min
+## Section 7: Generics (Until 100)
