@@ -169,3 +169,44 @@ Quiz 6: Interfaces
 ### 15th of September
 ## Section 6: Advanced Types (ALL) 12 / 12|52min
 ## Section 7: Generics (Until 100)
+
+04.12.21
+101. Generic Utility Types
+7min
+102. Generic Types vs Union Types
+4min
+Quiz 8: Generics
+103. Useful Resources & Links
+
+## Section 8: 
+104. Module Introduction
+2min
+105. A First Class Decorator
+5min
+106. Working with Decorator Factories
+2min
+107. Building More Useful Decorators
+6min
+108. Adding Multiple Decorators
+3min
+109. Diving into Property Decorators
+5min
+110. Accessor & Parameter Decorators
+6min
+111. When Do Decorators Execute?
+3min
+112. Returning (and changing) a Class in a Class Decorator
+9min
+113. Other Decorator Return Types
+4min
+114. Example: Creating an "Autobind" Decorator
+9min
+115. Validation with Decorators - First Steps
+7min
+116. Validation with Decorators - Finished
+12min
+117. Fixing a Validator Bug
+1min
+118. Wrap Up
+3min
+119. Useful Resources & Links
